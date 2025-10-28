@@ -1,0 +1,18 @@
+Retrospectiva
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? (Horas/Hombre)
+R/ 8 horas por cada uno (Cristopher Calvo Ramírez y Sergio Ramírez López)
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+R/ Incompleto, porque el último punto que usaba el algoritmo A* no logramos hallar una forma que funcionara, así que decidimos entregarlo así en vez de completarlo con herramientas de IA, queremos entender y que lo haga la herramienta por nosotros no ayuda para nuestro aprendizaje.
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+R/ Poder hacer la mayoría del laboratorio, con problemas de entendimiento de vez en cuando pero logrando la gran mayoría.
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+R/ Fué el último punto, no llegamos a una solución y por ende decidimos dejarlo así, aunque lo intentamos por un buen tiempo.
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+R/ Nos repartimos el trabajo equitativamente aunque nos comprometemos a mejorar la comunicación entre nosotros para futuros trabajos.
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+R/ Usamos la herramienta de ChatGPT en el modo "Estudia y aprende" para que nos guiara y dijera los errores que íbamos cometiendo en el proceso.
